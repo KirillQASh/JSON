@@ -1,0 +1,16 @@
+{
+	"person": {
+		"name" : "Kirill",
+		"surname" : "Shapran",
+		"age" : 34
+		},
+	"location": {
+		"country" : "Ukraine",
+		"city" : "Kyiv"
+		},
+	"children" : "no",
+	"pets" : "yes",
+        "nomber of pets" : "1",
+	"sallary" : "10000 usd"
+
+}
